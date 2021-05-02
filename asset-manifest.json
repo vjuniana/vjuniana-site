@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/vjuniana-site/static/css/main.3e1ecf9b.chunk.css",
+    "main.js": "/vjuniana-site/static/js/main.1edd00dd.chunk.js",
+    "main.js.map": "/vjuniana-site/static/js/main.1edd00dd.chunk.js.map",
+    "runtime-main.js": "/vjuniana-site/static/js/runtime-main.9dfdb9a9.js",
+    "runtime-main.js.map": "/vjuniana-site/static/js/runtime-main.9dfdb9a9.js.map",
+    "static/css/2.bea77859.chunk.css": "/vjuniana-site/static/css/2.bea77859.chunk.css",
+    "static/js/2.66c5269a.chunk.js": "/vjuniana-site/static/js/2.66c5269a.chunk.js",
+    "static/js/2.66c5269a.chunk.js.map": "/vjuniana-site/static/js/2.66c5269a.chunk.js.map",
+    "static/js/3.9aabb83a.chunk.js": "/vjuniana-site/static/js/3.9aabb83a.chunk.js",
+    "static/js/3.9aabb83a.chunk.js.map": "/vjuniana-site/static/js/3.9aabb83a.chunk.js.map",
+    "index.html": "/vjuniana-site/index.html",
+    "static/css/2.bea77859.chunk.css.map": "/vjuniana-site/static/css/2.bea77859.chunk.css.map",
+    "static/css/main.3e1ecf9b.chunk.css.map": "/vjuniana-site/static/css/main.3e1ecf9b.chunk.css.map",
+    "static/js/2.66c5269a.chunk.js.LICENSE.txt": "/vjuniana-site/static/js/2.66c5269a.chunk.js.LICENSE.txt",
+    "static/media/me.c7c8c981.jpg": "/vjuniana-site/static/media/me.c7c8c981.jpg",
+    "static/media/pic1.eb6e9ee4.png": "/vjuniana-site/static/media/pic1.eb6e9ee4.png",
+    "static/media/pic2.8945686e.png": "/vjuniana-site/static/media/pic2.8945686e.png",
+    "static/media/pic3.4edd1188.png": "/vjuniana-site/static/media/pic3.4edd1188.png",
+    "static/media/pic4.a27d1794.png": "/vjuniana-site/static/media/pic4.a27d1794.png",
+    "static/media/pic5.1f9bd288.png": "/vjuniana-site/static/media/pic5.1f9bd288.png",
+    "static/media/pic6.2d46b6b6.png": "/vjuniana-site/static/media/pic6.2d46b6b6.png",
+    "static/media/pic7.08961964.png": "/vjuniana-site/static/media/pic7.08961964.png",
+    "static/media/pic8.78b8b697.png": "/vjuniana-site/static/media/pic8.78b8b697.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dfdb9a9.js",
+    "static/css/2.bea77859.chunk.css",
+    "static/js/2.66c5269a.chunk.js",
+    "static/css/main.3e1ecf9b.chunk.css",
+    "static/js/main.1edd00dd.chunk.js"
+  ]
+}
