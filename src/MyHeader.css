@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+.header{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 5px;
+    font-weight: light;
+    color: white;
+    font-size: 40px     ;
+    text-align:center;
+}
+
+.subHeader{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+    font-weight: 200;
+    color: white;
+    font-size: 15px;
+    text-align:center;
+}
+.subHeader-2{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+    font-weight: 800;
+    color: white;
+    font-size: 15px;
+    text-align:center;
+}
+
+.hr{
+
+    border-top: 1px solid white;
+    background-color: black;
+      
+}
+.bg-col{
+    margin: auto;
+    padding: 10px;  
+    background-color: #2d3436;
+    background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+    background-attachment: fixed;
+    background-size:cover;
+    height:15vh;
+    vertical-align: middle;
+}
+
+
+
+.navbar-nav{
+    text-align : right; 
+    background-color: #2d3436;
+    background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+    background-attachment: fixed;
+    background-size:cover;
+    height:5vh;
+    vertical-align: middle;
+    position : sticky;
+}
+
+.footer{
+    margin: auto;
+    padding: 30px;  
+    background-color: #2d3436;
+    background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+    background-attachment: fixed;
+    background-size:cover;
+    height:10vh;
+    vertical-align: middle;
+}

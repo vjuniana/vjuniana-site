@@ -1,0 +1,36 @@
+.showcase-box{
+    width: 100%;
+    margin: auto;
+    padding: 5px;
+    background-color: #e9e8e2;
+    height: 85vh;
+    line-height:2.5;
+}
+.image-style-show{
+    width:60%;
+    float:center;
+    position: relative;
+    left: 315px;
+}
+.title-text-show{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 3px;
+    font-weight: 500;
+    color: black;
+    font-size: 25px;
+    text-align:center;
+}
+
+.desc-text-show{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: black;
+    font-size: 15px;
+    text-align:center;
+    padding: 18px;  
+}
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
