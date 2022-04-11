@@ -27,7 +27,7 @@ const myHeader = () => {
           <Nav.Link href="mailto:vjuniana@gmail.com" target="_blank">
             <div className="subHeader-2">&#10100;Email&#10101;</div>
           </Nav.Link>
-          <Nav.Link href="https://drive.google.com/file/d/1M9tbHZmMY2qg7pmu6HUzADySvOEt5qgH/view?usp=sharing" target="_blank">
+          <Nav.Link href="https://docs.google.com/document/d/1VPp7OGWIu4ggaz8NkgujOljvWGqRvtjk/edit?usp=sharing&ouid=108136591760326795803&rtpof=true&sd=true" target="_blank">
             <div className="subHeader-2">&#10100;Resume&#10101;</div>
           </Nav.Link>
         </Nav>
